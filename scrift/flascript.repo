@@ -1,0 +1,7 @@
+NAME=Fegeya FlaScript
+DESC=New generation functional programming language.
+AUTHOR=Ferhat Gecdogan
+LICENSE=MIT License
+EXEC=fla
+REPOSITORY=https://github.com/ferhatgec/flascript.git
+REPOSITORY_FOLDER=flascript
