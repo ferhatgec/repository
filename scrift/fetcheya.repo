@@ -1,0 +1,7 @@
+NAME=Fegeya Fetcheya
+DESC=Colorized & Cool* System-Information-Tool
+AUTHOR=Ferhat Gecdogan
+LICENSE=MIT License
+EXEC=fetcheya
+REPOSITORY=https://github.com/ferhatgec/fetcheya.git
+REPOSITORY_FOLDER=fetcheya

@@ -1,0 +1,7 @@
+NAME=Fegeya Copyboard
+DESC=Simple CLI copy-todo list manager.
+AUTHOR=Ferhat Gecdogan
+LICENSE=MIT License
+EXEC=copyboard
+REPOSITORY=https://github.com/ferhatgec/copyboard.git
+REPOSITORY_FOLDER=copyboard
