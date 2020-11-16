@@ -1,0 +1,7 @@
+NAME=Fegeya Colocat
+DESC=Colorized 'cat' implementation.
+AUTHOR=Ferhat Gecdogan
+LICENSE=MIT License
+EXEC=colocat
+REPOSITORY=https://github.com/ferhatgec/colocat.git
+REPOSITORY_FOLDER=colocat

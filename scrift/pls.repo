@@ -1,0 +1,7 @@
+NAME=Fegeya Please
+DESC=Cross-platform package installer, manager(?), searcher.
+AUTHOR=Ferhat Gecdogan
+LICENSE=MIT License
+EXEC=pls
+REPOSITORY=https://github.com/ferhatgec/pls.git
+REPOSITORY_FOLDER=pls

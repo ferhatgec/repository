@@ -1,0 +1,7 @@
+NAME=Fegeya Fisk
+DESC=CLI Disk analyzer.
+AUTHOR=Ferhat Gecdogan
+LICENSE=MIT License
+EXEC=fisk
+REPOSITORY=https://github.com/ferhatgec/fisk.git
+REPOSITORY_FOLDER=fisk
