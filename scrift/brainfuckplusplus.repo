@@ -1,0 +1,7 @@
+NAME=Fegeya Brainfuck++
+DESC=Brainfuck interpreter, Bf-to-C compiler & library.
+AUTHOR=Ferhat Gecdogan
+LICENSE=MIT License
+EXEC=bfc
+REPOSITORY=https://github.com/ferhatgec/brainfuckplusplus.git
+REPOSITORY_FOLDER=brainfuckplusplus

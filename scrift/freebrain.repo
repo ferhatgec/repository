@@ -1,0 +1,7 @@
+NAME=Fegeya FreeBrain
+DESC=Esoteric language & next generation antidote against Brainf*ck.
+AUTHOR=Ferhat Gecdogan
+LICENSE=MIT License
+EXEC=freebr
+REPOSITORY=https://github.com/ferhatgec/freebrain.git
+REPOSITORY_FOLDER=freebrain

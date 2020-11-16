@@ -1,0 +1,7 @@
+NAME=Fegeya Lsf
+DESC=Same 'ls', 'fls', 'dls' from Scrift.
+AUTHOR=Ferhat Gecdogan
+LICENSE=MIT License
+EXEC=lsf
+REPOSITORY=https://github.com/ferhatgec/lsf.git
+REPOSITORY_FOLDER=lsf
