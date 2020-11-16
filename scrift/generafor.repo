@@ -1,0 +1,7 @@
+NAME=Fegeya Generafor
+DESC=Website to application generator.
+AUTHOR=Ferhat Gecdogan
+LICENSE=MIT License
+EXEC=generafor
+REPOSITORY=https://github.com/ferhatgec/generafor.git
+REPOSITORY_FOLDER=generafor
