@@ -1,0 +1,11 @@
+NAME=Fegeya Scrift
+DESC=New generation colorized shell & scripting language for everyone. 
+AUTHOR=Ferhat Gecdogan
+LICENSE=MIT License
+EXEC=scrift
+REPOSITORY=https://github.com/ferhatgec/scrift.git
+REPOSITORY_FOLDER=scrift
+
+instruction() {
+	sudo make install
+} instruction <
