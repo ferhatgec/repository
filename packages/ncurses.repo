@@ -1,0 +1,13 @@
+NAME=GNU NCurses
+DESC=Text-based user interface library.
+AUTHOR=GNU Project
+LICENSE=X11
+EXEC=<LIBRARY>
+SCM=Git
+REPOSITORY=https://github.com/mirror/ncurses.git
+REPOSITORY_FOLDER=ncurses
+
+instruction() {
+./configure
+sudo make install
+} instruction <
