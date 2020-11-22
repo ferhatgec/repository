@@ -1,0 +1,14 @@
+NAME=GNU MP
+DESC=The GNU Multiple Precision Arithmetic Library
+AUTHOR=GNU Project
+LICENSE=Dual LGPLv3 and GPLv2
+EXEC=<LIBRARY>
+SCM=Mercurial
+REPOSITORY=https://gmplib.org/repo/gmp/
+REPOSITORY_FOLDER=gmp
+
+instruction() {
+./.bootstrap
+./configure
+sudo make install
+} instruction <
