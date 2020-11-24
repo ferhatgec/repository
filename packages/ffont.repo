@@ -1,0 +1,11 @@
+NAME=Fegeya FFont
+DESC=Fegeya FFont, Unique CLI ASCII Art generator with coolest fonts!
+AUTHOR=Ferhat Gecdogan
+LICENSE=MIT License
+EXEC=ffont
+REPOSITORY=https://github.com/ferhatgec/ffont.git
+REPOSITORY_FOLDER=ffont
+
+instruction() {
+	sudo sh install.sh
+} instruction <
