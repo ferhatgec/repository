@@ -1,0 +1,7 @@
+NAME=Fegeya Flacat
+DESC=Colocat implementation. Written in FlaScript.
+AUTHOR=Ferhat Gecdogan
+LICENSE=MIT License
+EXEC=flacat
+REPOSITORY=https://github.com/ferhatgec/flacat.git
+REPOSITORY_FOLDER=flacat

@@ -1,0 +1,7 @@
+NAME=Fegeya Flatcheya
+DESC=Fetcheya implementation. Written in FlaScript.
+AUTHOR=Ferhat Gecdogan
+LICENSE=MIT License
+EXEC=flatcheya
+REPOSITORY=https://github.com/ferhatgec/flatcheya.git
+REPOSITORY_FOLDER=flatcheya
