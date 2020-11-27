@@ -1,0 +1,12 @@
+NAME=Neofetch
+DESC=A command-line system information tool written in bash 3.2+
+AUTHOR=Dylan Araps
+LICENSE=MIT
+EXEC=neofetch
+SCM=Git
+REPOSITORY=https://github.com/dylanaraps/neofetch.git
+REPOSITORY_FOLDER=neofetch
+
+instruction() {
+	sudo make install
+} instruction <
