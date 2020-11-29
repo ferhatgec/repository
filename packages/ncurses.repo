@@ -6,6 +6,7 @@ EXEC=<LIBRARY>
 SCM=Git
 REPOSITORY=https://github.com/mirror/ncurses.git
 REPOSITORY_FOLDER=ncurses
+LANG=C
 
 instruction() {
 ./configure

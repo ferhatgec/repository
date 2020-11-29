@@ -5,3 +5,4 @@ LICENSE=MIT License
 EXEC=generafor
 REPOSITORY=https://github.com/ferhatgec/generafor.git
 REPOSITORY_FOLDER=generafor
+LANG=C++

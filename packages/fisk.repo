@@ -5,3 +5,4 @@ LICENSE=MIT License
 EXEC=fisk
 REPOSITORY=https://github.com/ferhatgec/fisk.git
 REPOSITORY_FOLDER=fisk
+LANG=C++

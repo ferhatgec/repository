@@ -5,3 +5,4 @@ LICENSE=MIT License
 EXEC=lsf
 REPOSITORY=https://github.com/ferhatgec/lsf.git
 REPOSITORY_FOLDER=lsf
+LANG=C++

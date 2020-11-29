@@ -5,3 +5,4 @@ LICENSE=MIT License
 EXEC=fpm
 REPOSITORY=https://github.com/ferhatgec/fpm.git
 REPOSITORY_FOLDER=fpm
+LANG=C++

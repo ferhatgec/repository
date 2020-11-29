@@ -5,6 +5,7 @@ LICENSE=MIT License
 EXEC=scrift
 REPOSITORY=https://github.com/ferhatgec/scrift.git
 REPOSITORY_FOLDER=scrift
+LANG=C/C++
 
 instruction() {
 	sudo make install

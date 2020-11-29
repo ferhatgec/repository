@@ -1,7 +1,8 @@
 NAME=Fegeya Fetcher
-DESC= Fegeya Fetcher, pretty & cute system-information-tool. Written in FlaScript.
+DESC= Fegeya Fetcher, pretty & cute system-information-tool.
 AUTHOR=Ferhat Gecdogan
 LICENSE=MIT License
 EXEC=fetcher
 REPOSITORY=https://github.com/ferhatgec/fetcher.git
 REPOSITORY_FOLDER=fetcher
+LANG=FlaScript

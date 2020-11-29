@@ -5,3 +5,4 @@ LICENSE=MIT License
 EXEC=bfc
 REPOSITORY=https://github.com/ferhatgec/brainfuckplusplus.git
 REPOSITORY_FOLDER=brainfuckplusplus
+LANG=C

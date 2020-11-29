@@ -5,3 +5,4 @@ LICENSE=MIT License
 EXEC=procp
 REPOSITORY=https://github.com/ferhatgec/processplusplus.git
 REPOSITORY_FOLDER=processplusplus
+LANG=C++

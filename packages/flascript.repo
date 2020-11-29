@@ -5,3 +5,4 @@ LICENSE=MIT License
 EXEC=fla
 REPOSITORY=https://github.com/ferhatgec/flascript.git
 REPOSITORY_FOLDER=flascript
+LANG=C++

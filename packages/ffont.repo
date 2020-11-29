@@ -5,6 +5,7 @@ LICENSE=MIT License
 EXEC=ffont
 REPOSITORY=https://github.com/ferhatgec/ffont.git
 REPOSITORY_FOLDER=ffont
+LANG=C++
 
 instruction() {
 	sudo sh install.sh

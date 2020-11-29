@@ -5,3 +5,4 @@ LICENSE=MIT License
 EXEC=tlatfe
 REPOSITORY=https://github.com/ferhatgec/translatfe.git
 REPOSITORY_FOLDER=translatfe
+LANG=C++

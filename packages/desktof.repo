@@ -5,3 +5,4 @@ LICENSE=MIT License
 EXEC=desktof
 REPOSITORY=https://github.com/ferhatgec/desktof.git
 REPOSITORY_FOLDER=desktof
+LANG=C++

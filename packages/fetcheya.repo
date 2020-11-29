@@ -5,6 +5,7 @@ LICENSE=MIT License
 EXEC=fetcheya
 REPOSITORY=https://github.com/ferhatgec/fetcheya.git
 REPOSITORY_FOLDER=fetcheya
+LANG=C++
 
 instruction() {
 	sh install.sh

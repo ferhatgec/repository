@@ -5,3 +5,4 @@ LICENSE=MIT License
 EXEC=copyboard
 REPOSITORY=https://github.com/ferhatgec/copyboard.git
 REPOSITORY_FOLDER=copyboard
+LANG=C++

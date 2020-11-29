@@ -6,6 +6,7 @@ EXEC=<LIBRARY>
 SCM=Mercurial
 REPOSITORY=https://gmplib.org/repo/gmp/
 REPOSITORY_FOLDER=gmp
+LANG=C
 
 instruction() {
 ./.bootstrap

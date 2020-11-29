@@ -5,3 +5,4 @@ LICENSE=MIT License
 EXEC=freebr
 REPOSITORY=https://github.com/ferhatgec/freebrain.git
 REPOSITORY_FOLDER=freebrain
+LANG=C++

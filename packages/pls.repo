@@ -5,3 +5,4 @@ LICENSE=MIT License
 EXEC=pls
 REPOSITORY=https://github.com/ferhatgec/pls.git
 REPOSITORY_FOLDER=pls
+LANG=C++

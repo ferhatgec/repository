@@ -6,6 +6,7 @@ EXEC=neofetch
 SCM=Git
 REPOSITORY=https://github.com/dylanaraps/neofetch.git
 REPOSITORY_FOLDER=neofetch
+LANG=Bash
 
 instruction() {
 	sudo make install
