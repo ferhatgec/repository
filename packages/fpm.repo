@@ -1,0 +1,7 @@
+NAME=Fegeya Package Manager
+DESC=Package manager, compile-install-manage!
+AUTHOR=Ferhat Gecdogan
+LICENSE=MIT License
+EXEC=fpm
+REPOSITORY=https://github.com/ferhatgec/fpm.git
+REPOSITORY_FOLDER=fpm
