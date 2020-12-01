@@ -1,0 +1,8 @@
+NAME=Fegeya Edifor
+DESC=Mostly inspired CLI Code editor.
+AUTHOR=Ferhat Gecdogan
+LICENSE=MIT License
+EXEC=edifor
+REPOSITORY=https://github.com/ferhatgec/edifor.git
+REPOSITORY_FOLDER=edifor
+LANG=C
