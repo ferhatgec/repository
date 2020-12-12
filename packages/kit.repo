@@ -7,6 +7,10 @@ REPOSITORY=https://github.com/ferhatgec/kit.git
 REPOSITORY_FOLDER=kit
 LANG=FlaScript
 
+recipe() {
+    flascript
+} recipe <
+
 instruction() {
 	sudo sh install.sh
 } instruction <

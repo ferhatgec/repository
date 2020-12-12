@@ -6,3 +6,7 @@ EXEC=fetcher
 REPOSITORY=https://github.com/ferhatgec/fetcher.git
 REPOSITORY_FOLDER=fetcher
 LANG=FlaScript
+
+recipe() {
+    flascript
+} recipe <

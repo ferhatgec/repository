@@ -6,3 +6,7 @@ EXEC=flatcheya
 REPOSITORY=https://github.com/ferhatgec/flatcheya.git
 REPOSITORY_FOLDER=flatcheya
 LANG=FlaScript
+
+recipe() {
+    flascript
+} recipe <

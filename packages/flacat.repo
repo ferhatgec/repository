@@ -6,3 +6,7 @@ EXEC=flacat
 REPOSITORY=https://github.com/ferhatgec/flacat.git
 REPOSITORY_FOLDER=flacat
 LANG=FlaScript
+
+recipe() {
+    flascript
+} recipe <
