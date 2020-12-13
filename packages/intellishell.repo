@@ -1,0 +1,12 @@
+NAME=IntelliShell
+DESC=Simple system shell.
+AUTHOR=Emir Ensar
+LICENSE=MIT License
+EXEC=intellishell
+REPOSITORY=https://github.com/rahmanlar/intellishell.git
+REPOSITORY_FOLDER=intellishell
+LANG=C++
+
+instruction() {
+    sh autoinstall.sh
+} instruction <
