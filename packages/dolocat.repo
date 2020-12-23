@@ -1,0 +1,12 @@
+NAME=Fegeya Dolocat
+DESC=ColoCat implementation, written in D.
+AUTHOR=Ferhat Gecdogan
+LICENSE=MIT License
+EXEC=dolocat
+REPOSITORY=https://github.com/ferhatgec/dolocat.git
+REPOSITORY_FOLDER=dolocat
+LANG=D
+
+instruction() {
+	sudo sh install.sh
+} instruction <
