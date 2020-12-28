@@ -1,0 +1,8 @@
+NAME=Fegeya Hall
+DESC=Pretty & simple halloween theme on your commands. 
+AUTHOR=Ferhat Gecdogan
+LICENSE=MIT License
+EXEC=hall
+REPOSITORY=https://github.com/ferhatgec/hall.git
+REPOSITORY_FOLDER=hall
+LANG=C++
