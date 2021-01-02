@@ -1,0 +1,12 @@
+NAME=Fegeya FlaSh
+DESC=Fegeya Flash (or FlaShell), Pure Shell project. 
+AUTHOR=Ferhat Gecdogan
+LICENSE=MIT License
+EXEC=flash
+REPOSITORY=https://github.com/ferhatgec/flash.git
+REPOSITORY_FOLDER=flash
+LANG=FlaScript
+
+recipe() {
+    flascript
+} recipe <
