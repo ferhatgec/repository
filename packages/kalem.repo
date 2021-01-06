@@ -1,0 +1,8 @@
+NAME=Fegeya Kalem
+DESC=New generation programming language with to-C++ transpiler. 
+AUTHOR=Ferhat Gecdogan
+LICENSE=MIT License
+EXEC=kalem
+REPOSITORY=https://github.com/ferhatgec/kalem.git
+REPOSITORY_FOLDER=kalem
+LANG=C++
