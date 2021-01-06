@@ -1,0 +1,8 @@
+NAME=Fegeya FPage
+DESC=New generation colorful pages.
+AUTHOR=Ferhat Gecdogan
+LICENSE=MIT License
+EXEC=fpage
+REPOSITORY=https://github.com/ferhatgec/fpage.git
+REPOSITORY_FOLDER=fpage
+LANG=C++
