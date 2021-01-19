@@ -1,0 +1,12 @@
+NAME=Fegeya Zahlen
+DESC=Fegeya Zahlen, Unique(!) & Colorized CLI File-Manager. Mostly written in Kalem & C++.
+AUTHOR=Ferhat Gecdogan
+LICENSE=MIT License
+EXEC=zahlen
+REPOSITORY=https://github.com/ferhatgec/zahlen.git
+REPOSITORY_FOLDER=zahlen
+LANG=Kalem/C++
+
+recipe() {
+    kalem
+} recipe <

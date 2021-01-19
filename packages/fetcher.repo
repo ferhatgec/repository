@@ -1,5 +1,5 @@
 NAME=Fegeya Fetcher
-DESC= Fegeya Fetcher, pretty & cute system-information-tool.
+DESC=Fegeya Fetcher, pretty & cute system-information-tool.
 AUTHOR=Ferhat Gecdogan
 LICENSE=MIT License
 EXEC=fetcher
