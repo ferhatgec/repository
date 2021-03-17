@@ -1,0 +1,8 @@
+NAME=Fegeya Solfege
+DESC=Solfege Esoteric Language.
+AUTHOR=Ferhat Gecdogan
+LICENSE=MIT License
+EXEC=solfege
+REPOSITORY=https://github.com/ferhatgec/solfege.git
+REPOSITORY_FOLDER=solfege
+LANG=C++
