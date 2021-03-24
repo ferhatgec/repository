@@ -1,0 +1,8 @@
+NAME=Fegeya PyFFont
+DESC=Python3 implementation of FFont (library, executable) 
+AUTHOR=Ferhat Gecdogan
+LICENSE=MIT License
+EXEC=pyffont
+REPOSITORY=https://github.com/ferhatgec/pyffont.git
+REPOSITORY_FOLDER=pyffont
+LANG=Python
