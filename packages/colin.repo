@@ -1,0 +1,8 @@
+NAME=Fegeya Colin
+DESC=Beautiful CLI color info tool.
+AUTHOR=Ferhat Gecdogan
+LICENSE=MIT License
+EXEC=colin
+REPOSITORY=https://github.com/ferhatgec/colin.git
+REPOSITORY_FOLDER=colin
+LANG=C++
