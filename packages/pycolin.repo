@@ -1,0 +1,8 @@
+NAME=Fegeya PyColin
+DESC=Python3 implementation of Colin.
+AUTHOR=Ferhat Gecdogan
+LICENSE=MIT License
+EXEC=pycolin
+REPOSITORY=https://github.com/ferhatgec/pycolin.git
+REPOSITORY_FOLDER=pycolin
+LANG=Python
