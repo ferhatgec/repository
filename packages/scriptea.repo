@@ -1,0 +1,8 @@
+NAME=Fegeya Scriptea
+DESC=Script front-end for compiled programming languages, lol? 
+AUTHOR=Ferhat Gecdogan
+LICENSE=MIT License
+EXEC=scriptea
+REPOSITORY=https://github.com/ferhatgec/scriptea.git
+REPOSITORY_FOLDER=scriptea
+LANG=Python
