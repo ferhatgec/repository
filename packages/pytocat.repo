@@ -1,0 +1,8 @@
+NAME=Fegeya PytoCat
+DESC=Python3 implementation of ColoCat.
+AUTHOR=Ferhat Gecdogan
+LICENSE=MIT License
+EXEC=pytocat
+REPOSITORY=https://github.com/ferhatgec/pytocat.git
+REPOSITORY_FOLDER=pytocat
+LANG=Python
