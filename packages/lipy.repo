@@ -1,0 +1,8 @@
+NAME=Fegeya Li[dot]Py
+DESC=Python3 implementation of Scrift's list-directory command.
+AUTHOR=Ferhat Gecdogan
+LICENSE=MIT License
+EXEC=lipy
+REPOSITORY=https://github.com/ferhatgec/lipy.git
+REPOSITORY_FOLDER=lipy
+LANG=Python
